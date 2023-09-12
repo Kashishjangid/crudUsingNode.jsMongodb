@@ -1,0 +1,15 @@
+{
+  "name": "miniproject",
+  "version": "1.0.0",
+  "description": "A node.js mini project of create insert delete and update using mongodb.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kashish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.0.0"
+  }
+}
